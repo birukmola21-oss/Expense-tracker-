@@ -21,13 +21,13 @@ include 'includes/header.php';
     </tr>
     <tr>
         <th>Department:</th>
-        <td>Computer Science / IT</td>
+        <td>Computer Science</td>
     </tr>
 </table>
 
 <h3 style="margin-top: 1.5rem;">Personal Bio & Motivation</h3>
 <p style="margin-top: 0.5rem;">
-    I am a student passionate about web development and data management. I chose to build this Personal Expense Tracker because financial literacy and budget control are essential skills for students and professionals alike.
+    I am a Computer Science student with a strong passion for the business and finance sectors as well as web development. I chose to build this Personal Expense Tracker because combining technology with financial management creates practical tools that help students and professionals gain budget control and improve financial literacy.
 </p>
 
 <?php
